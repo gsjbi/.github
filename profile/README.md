@@ -19,7 +19,7 @@ Todo o conteúdo presente nos repositórios desta organização, incluindo códi
 ### Solicitação de Uso
 Se você deseja utilizar qualquer recurso disponibilizado pela nossa organização, envie sua solicitação para o e-mail:
 
-📧 **tecnologia@santajoana.com.br**
+📧 **dataanalytics@santajoana.com.br**
 
 No e-mail, inclua:
 - Nome completo
@@ -33,7 +33,7 @@ A equipe responsável analisará sua solicitação e retornará com uma resposta
 Se você tiver dúvidas ou precisar de mais informações, entre em contato conosco:
 
 - **Site Oficial**: [www.santajoana.com.br](https://www.santajoana.com.br)
-- **E-mail**: tecnologia@santajoana.com.br
+- **E-mail**: dataanalytics@santajoana.com.br
 
 Agradecemos por respeitar nossas diretrizes de uso e por colaborar conosco no avanço da tecnologia e saúde!
 
